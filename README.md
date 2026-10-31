@@ -27,23 +27,8 @@ FNF (Friday Night Funkin') 関係で作成した物を保管・配布してい�
 個々ではそれぞれのファイルにアクセスし、ダウンロードすることをおすすめします。  
 
 ---
-
-一括でのダウンロードはGitでの操作を推奨します  
-```
-git clone git@github.com:user-fox79/FNF_Music_Materials.git
-```  
-などでクローン、  
-ただLFSを利用しているので、FLPはバイナリでダウンロードされます
-実体は
-```
-git lfs pull
-```  
-もしくは  
-```
-git lfs fetch
-git lfs checkout
-```  
-でダウンロードできます  
+一括でのダウンロード方法は今のところ検討中です
+LFSの一括ダウンロードを考えています。
 
 
 # Credit  
