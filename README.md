@@ -11,8 +11,34 @@ FNF (Friday Night Funkin') 関係で作成した物を保管・配布してい�
    - SoundFont  : .sf  
 
 
-# Credit
-基本的に記述なし もしくはこのリポジトリへのリンクでお願いします。
+
+
+
+# ダウンロード  
+個々ではそれぞれのファイルにアクセスし、ダウンロードすることをおすすめします。  
+
+---
+
+一括でのダウンロードはGitでの操作を推奨します  
+```
+git clone git@github.com:user-fox79/FNF_Music_Materials.git
+```  
+などでクローン、  
+ただLFSを利用しているので、FLPはバイナリでダウンロードされます
+実体は
+```
+git lfs pull
+```  
+もしくは  
+```
+git lfs fetch
+git lfs checkout
+```  
+でダウンロードできます  
+
+
+# Credit  
+基本的に記述なし もしくはこのリポジトリへのリンクでお願いします。  
   
 # Requests
 リクエスト、質問 及び 削除依頼や問題については、
