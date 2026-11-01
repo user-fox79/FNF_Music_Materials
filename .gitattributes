@@ -1,3 +1,2 @@
-Vocal[[:space:]]FLPs/** filter=lfs diff=lfs merge=lfs -text
-VoiceBanks/** filter=lfs diff=lfs merge=lfs -text
-Remixes/** filter=lfs diff=lfs merge=lfs -text
+Vocal[[:space:]]FLP/** filter=lfs diff=lfs merge=lfs -text
+Voice[[:space:]]Bank/** filter=lfs diff=lfs merge=lfs -text
